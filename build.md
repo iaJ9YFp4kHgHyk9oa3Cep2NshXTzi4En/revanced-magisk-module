@@ -1,6 +1,8 @@
 Music (arm64-v8a): 7.29.52  
 Music (arm-v7a): 7.29.52  
 Reddit: 2024.17.0  
+TikTok: 36.5.4  
+Twitter: 10.62.1-release.0  
 YouTube: 19.47.53  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
